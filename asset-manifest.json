@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/nachogl1/portfolio.git/static/css/main.b8bf1712.css",
-    "main.js": "/nachogl1/portfolio.git/static/js/main.2d14e970.js",
+    "main.js": "/nachogl1/portfolio.git/static/js/main.af0f1847.js",
     "static/js/415.4d6acbeb.chunk.js": "/nachogl1/portfolio.git/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/nachogl1/portfolio.git/static/js/787.1ed0c42c.chunk.js",
     "static/media/leaf.png": "/nachogl1/portfolio.git/static/media/leaf.ff2616f664c8c0ceab91.png",
@@ -18,12 +18,12 @@
     "static/media/pre.svg": "/nachogl1/portfolio.git/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/nachogl1/portfolio.git/index.html",
     "main.b8bf1712.css.map": "/nachogl1/portfolio.git/static/css/main.b8bf1712.css.map",
-    "main.2d14e970.js.map": "/nachogl1/portfolio.git/static/js/main.2d14e970.js.map",
+    "main.af0f1847.js.map": "/nachogl1/portfolio.git/static/js/main.af0f1847.js.map",
     "415.4d6acbeb.chunk.js.map": "/nachogl1/portfolio.git/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/nachogl1/portfolio.git/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b8bf1712.css",
-    "static/js/main.2d14e970.js"
+    "static/js/main.af0f1847.js"
   ]
 }
