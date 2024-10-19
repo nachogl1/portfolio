@@ -1,11 +1,12 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
+import { HiDotsHorizontal } from "react-icons/hi";
 import {
-  SiVisualstudiocode,
+  SiIntellijidea,
+  SiMacos,
   SiPostman,
   SiSlack,
-  SiVercel,
-  SiMacos,
+  SiVisualstudiocode,
 } from "react-icons/si";
 
 function Toolstack() {
@@ -24,7 +25,10 @@ function Toolstack() {
         <SiSlack />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiVercel />
+        <SiIntellijidea />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <HiDotsHorizontal color="purple"/>
       </Col>
     </Row>
   );

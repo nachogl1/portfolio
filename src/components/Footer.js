@@ -14,16 +14,16 @@ function Footer() {
     <Container fluid className="footer">
       <Row>
         <Col md="4" className="footer-copywright">
-          <h3>Nacho Gonzalez</h3>
+          <h3>Idea by soumyajit4419</h3>
         </Col>
         <Col md="4" className="footer-copywright">
-          <h3>Copyright © {year} NG</h3>
+          <h3>Copyright © {year} SB</h3>
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
             <li className="social-icons">
               <a
-                href="https://github.com/nachogl1"
+                href="https://github.com/soumyajit4419"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -33,7 +33,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://twitter.com/nachogl1"
+                href="https://twitter.com/Soumyajit4419"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -43,7 +43,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/nachogl1/"
+                href="https://www.linkedin.com/in/soumyajit4419/"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -53,7 +53,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.instagram.com/nachogl1"
+                href="https://www.instagram.com/soumyajit4419"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"

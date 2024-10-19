@@ -1,13 +1,14 @@
 import React from "react";
-import { Container, Row, Col } from "react-bootstrap";
-import myImg from "../../Assets/avatar.svg";
-import Tilt from "react-parallax-tilt";
+import { Col, Container, Row } from "react-bootstrap";
+import myImg from "../../Assets/home-main.png";
+
 import {
   AiFillGithub,
-  AiOutlineTwitter,
   AiFillInstagram,
+  AiOutlineTwitter,
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
+import Tilt from "react-parallax-tilt";
 
 function Home2() {
   return (
@@ -16,7 +17,7 @@ function Home2() {
         <Row>
           <Col md={8} className="home-about-description">
             <h1 style={{ fontSize: "2.6em" }}>
-              LET ME <span className="purple"> INTRODUCE </span> MYSELF
+              An <span className="purple"> summary  </span> about myself
             </h1>
             <p className="home-about-body">
               I fell in love with programming and I have at least learnt
@@ -31,10 +32,7 @@ function Home2() {
               My field of Interest's are building new &nbsp;
               <i>
                 <b className="purple">Web Technologies and Products </b> and
-                also in areas related to{" "}
-                <b className="purple">
-                  Blockchain.
-                </b>
+                also in areas related to <b className="purple">Blockchain.</b>
               </i>
               <br />
               <br />
@@ -77,17 +75,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/nachogl1"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="icon-colour  home-social-icons"
-                >
-                  <AiOutlineTwitter />
-                </a>
-              </li>
-              <li className="social-icons">
-                <a
-                  href="https://www.linkedin.com/in/nachogl1/"
+                  href="https://www.linkedin.com/in/ignaciogonzalezluengo"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
