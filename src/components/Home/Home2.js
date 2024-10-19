@@ -19,12 +19,14 @@ function Home2() {
               Positive minded and always full of energy, I am deeply interested
               in improving in general with a strong focus on productivity.
               <br />
+              <br />
               After my degree I started to gain some interest in programming and
               decided to dedicate myself to it. After finding my first job, I
               started to work on my own little projects. Now I am also
               interested in content creation and keep improving in any
               discipline related to software. I do use TDD while programming and
               try to advocate for a short feedback loop seeking efficiency.
+              <br />
               <br />
               Other interests cover playing and coaching padel, and BJJ
               (Brazilian Jiujitsu) among others.
