@@ -22,7 +22,11 @@ jobs:
       - name: Install app dependencies
         run: npm install
 
+      - name: Identify yourself first
+        run: git config --global user.email "i.gonzalezl@hotmail.com"
+
+      - name: Identify yourself first
+        run: git config --global user.name "nachogl1"
+
       - name: Deploy
         run: npm run deploy
-
-      
