@@ -11,14 +11,13 @@ function Projects() {
       <Particle />
       <Container>
         <h1 className="project-heading">
-          My  <strong className="purple">pet projects </strong>
+          My <strong className="purple">pet projects </strong>
         </h1>
-        <p style={{ color: "white" }}>
-          When I am free I like to work on 
-        </p>
+        <p style={{ color: "white" }}>When I am free I like to work on</p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
+              imageHref="/enigma"
               imgPath={enigma}
               isBlog={false}
               title="Enigma"
@@ -29,6 +28,7 @@ function Projects() {
           </Col>
           <Col md={4} className="project-card">
             <ProjectCard
+              imageHref="#"
               imgPath={myGymBro}
               isBlog={false}
               title="MyGymBro"

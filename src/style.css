@@ -542,7 +542,7 @@ button:focus {
 /* About */
 /* --------- */
 
-.about-section {
+.about-section, .project-about{
   position: relative !important;
   padding-top: 150px !important;
   padding-bottom: 30px !important;
