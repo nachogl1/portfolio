@@ -24,9 +24,10 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "create-404": "cd build && cp index.html 404.html",
     "add-domain": "echo www.nachogl1.dev > build/CNAME",
     "predeploy": "npm run build",
-    "deploy": " npm run add-domain && gh-pages -d build",
+    "deploy": " npm run add-domain && npm run create-404 && gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
