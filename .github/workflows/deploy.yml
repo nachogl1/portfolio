@@ -28,5 +28,8 @@ jobs:
       - name: Identify yourself first
         run: git config --global user.name "nachogl1"
 
-      - name: Deploy
+      - name: add domain
+        run: npm run add-domain
+
+      - name: deploy
         run: npm run deploy
