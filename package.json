@@ -24,13 +24,14 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "add-domain": "mkdir build && echo www.nachogl1.dev > build/CNAME",
+    "add-domain": "echo www.nachogl1.dev > build/CNAME",
     "predeploy": "npm run build",
-    "deploy": " gh-pages -d build",
+    "deploy": " npm run add-domain && gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "prepare": "husky"
   },
   "eslintConfig": {
     "extends": [
@@ -51,6 +52,7 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.2.0"
+    "gh-pages": "^6.2.0",
+    "husky": "^9.1.6"
   }
 }
