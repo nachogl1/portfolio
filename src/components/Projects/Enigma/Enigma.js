@@ -1,5 +1,5 @@
 import { Col, Container, Row } from "react-bootstrap";
-import pic1 from "../../../Assets/Projects/enigma.png";
+import pic1 from "../../../Assets/Projects/bannerEnigma.png";
 import flashingPic from "../../../Assets/Projects/flashing.png";
 import readingPic from "../../../Assets/Projects/reading.png";
 
