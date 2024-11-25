@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.540d1097.css",
-    "main.js": "/static/js/main.edfc23a3.js",
+    "main.js": "/static/js/main.e6ea8e64.js",
     "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/home-main.png": "/static/media/home-main.ee18b9242cdf391a3747.png",
@@ -9,7 +9,7 @@
     "static/media/flashing.png": "/static/media/flashing.562cc510a4b597023bf7.png",
     "static/media/mygymbro.png": "/static/media/mygymbro.7144a881d9b5747bdc77.png",
     "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/igl_resume.pdf": "/static/media/igl_resume.0e6c09306d21726bb119.pdf",
+    "static/media/igl_resume.pdf": "/static/media/igl_resume.3e2f0b13aa8d70708a43.pdf",
     "static/media/bannerEnigma.png": "/static/media/bannerEnigma.e481b187a1712a083b73.png",
     "static/media/enigma.png": "/static/media/enigma.b6b2f5e099aba53effd4.png",
     "static/media/AvatarMaker.svg": "/static/media/AvatarMaker.61393b857fa91505cd68c48acabc7c65.svg",
@@ -17,12 +17,12 @@
     "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/index.html",
     "main.540d1097.css.map": "/static/css/main.540d1097.css.map",
-    "main.edfc23a3.js.map": "/static/js/main.edfc23a3.js.map",
+    "main.e6ea8e64.js.map": "/static/js/main.e6ea8e64.js.map",
     "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.540d1097.css",
-    "static/js/main.edfc23a3.js"
+    "static/js/main.e6ea8e64.js"
   ]
 }
