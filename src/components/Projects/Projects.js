@@ -34,7 +34,7 @@ function Projects() {
               title="MyGymBro"
               description="Tool used to track and design gym routines, gamify your trainings and coach others"
               // ghLink="https://github.com/nachogl1/enigmx"
-              demoLink="https://play.google.com/store"
+              // demoLink="https://play.google.com/store"
             />
           </Col>
         </Row>
