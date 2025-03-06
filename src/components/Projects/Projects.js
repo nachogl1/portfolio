@@ -2,6 +2,7 @@ import React from "react";
 import { Col, Container, Row } from "react-bootstrap";
 import enigma from "../../Assets/Projects/enigma.png";
 import myGymBro from "../../Assets/Projects/mygymbro.png";
+import paramX from "../../Assets/Projects/paramX.png";
 import Particle from "../Particle";
 import ProjectCard from "./ProjectCards";
 
@@ -22,8 +23,8 @@ function Projects() {
               isBlog={false}
               title="Enigma"
               description="Tool used to encrypt seeds or passwords and write then on NTAGs (NFC technology)"
-              // ghLink="https://github.com/nachogl1/enigmx"
-              demoLink="https://play.google.com/store"
+              ghLink="https://github.com/nachogl1/enigmx"
+              demoLink="/enigma"
             />
           </Col>
           <Col md={4} className="project-card">
@@ -34,6 +35,17 @@ function Projects() {
               title="MyGymBro"
               description="Tool used to track and design gym routines, gamify your trainings and coach others"
               // ghLink="https://github.com/nachogl1/enigmx"
+              // demoLink="https://play.google.com/store"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imageHref="#"
+              imgPath={paramX}
+              isBlog={false}
+              title="paramX"
+              description="Gamify non tangible life metrics and gain insights"
+              ghLink="https://github.com/nachogl1?tab=repositories&q=param"
               // demoLink="https://play.google.com/store"
             />
           </Col>
